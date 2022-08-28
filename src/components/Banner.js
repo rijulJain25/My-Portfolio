@@ -60,7 +60,7 @@ export const Banner = () => {
                 <button className="tagline">Welcome to my Portfolio</button>
                 <h1>{`Hi! I'm Rijul Kumar Jain `} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ ", a Full Stack-Web Developer", ", Competitive Coder", ", MERN Stack Developer", ", Ardent for App development"  ]'><span className="wrap">{text}</span></span></h1>
                   <p>An Undergraduate Computer Science student with a great enthusiasm of learning new things. Love to be a Full Stack developer with a passion of bringing products to life. Welcome to my corner of internet. I'm glad you're here.</p>
-                  <a href="">
+                  <a href="https://drive.google.com/file/d/1-nuzOQUSlSQFvQAv_9CYE7hhhoGRQo3I/view?usp=sharing">
                   <button onClick={() => console.log('connect')}>My Resume <ArrowRightCircle size={25} /></button>
                   </a>
               </div>}
